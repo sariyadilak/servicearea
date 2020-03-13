@@ -5,9 +5,9 @@ const center = {
 }
 
 const hereCredentials = {
-   id: 'YOUR-HERE-ID',
-   code: 'YOUR-HERE-CODE',
-   apikey: 'YOUR-HERE-APIKEY'
+   id: 'N2ogiGVyJm82ejyD6Gr1',
+   code: 'XNASaLExw8fZQYe1-EGETA',
+   apikey: '6lXQrYGkuYJoN1on-KudZpOcIV-YCWwbURyU3uQpL8E'
 }
 
 export { center, hereCredentials };
